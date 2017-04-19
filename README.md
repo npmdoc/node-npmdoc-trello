@@ -1,9 +1,14 @@
-# api documentation for  [trello (v0.7.0)](https://github.com/norberteder/trello)  [![npm package](https://img.shields.io/npm/v/npmdoc-trello.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-trello) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-trello.svg)](https://travis-ci.org/npmdoc/node-npmdoc-trello)
+# npmdoc-trello
+
+#### api documentation for  [trello (v0.7.0)](https://github.com/norberteder/trello)  [![npm package](https://img.shields.io/npm/v/npmdoc-trello.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-trello) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-trello.svg)](https://travis-ci.org/npmdoc/node-npmdoc-trello)
+
 #### This module provides an easy way to make requests to the Trello API.
 
-[![NPM](https://nodei.co/npm/trello.png?downloads=true)](https://www.npmjs.com/package/trello)
+[![NPM](https://nodei.co/npm/trello.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/trello)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-trello/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-trello_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-trello/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-trello/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-trello/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-trello/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-trello/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-trello/build/screenCapture.npmPackageListing.svg)
 
@@ -17,32 +22,26 @@
 
 {
     "author": {
-        "name": "Norbert Eder",
-        "email": "opensource@norberteder.com"
+        "name": "Norbert Eder"
     },
     "bugs": {
         "url": "https://github.com/norberteder/trello/issues"
     },
     "contributors": [
         {
-            "name": "Graeme Foster",
-            "email": "graemef@gmail.com"
+            "name": "Graeme Foster"
         },
         {
-            "name": "Mike Beasley",
-            "email": "mbeasley@emcien.com"
+            "name": "Mike Beasley"
         },
         {
-            "name": "Dario Kondratiuk",
-            "email": "dariokondratiuk@gmail.com"
+            "name": "Dario Kondratiuk"
         },
         {
-            "name": "Sean Madden",
-            "email": "sdm350@gmail.com"
+            "name": "Sean Madden"
         },
         {
-            "name": "Siôn Le Roux",
-            "email": "sinisterstuf@gmail.com"
+            "name": "Siôn Le Roux"
         }
     ],
     "dependencies": {
@@ -74,17 +73,14 @@
     "main": "main.js",
     "maintainers": [
         {
-            "name": "graemef",
-            "email": "graemef@gmail.com"
+            "name": "graemef"
         },
         {
-            "name": "devtyr",
-            "email": "wpfnerd+nodejs@gmail.com"
+            "name": "devtyr"
         }
     ],
     "name": "trello",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/norberteder/trello.git"
@@ -95,16 +91,6 @@
     "version": "0.7.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module trello](#apidoc.module.trello)
-
-
-
-# <a name="apidoc.module.trello"></a>[module trello](#apidoc.module.trello)
 
 
 
